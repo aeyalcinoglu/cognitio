@@ -1,0 +1,8 @@
+- *Pulvis et umbra sumus*: [Odes (Horace)](https://en.wikipedia.org/wiki/Odes_(Horace)), 15 BC
+- *Ovem lupo committere*: [Eunuchus (Terence)](https://en.wikipedia.org/wiki/Eunuchus), 150 BC
+- *Bis vivit qui bene vivit*: Atasözü
+- *Epistula non erubescit*: [Epistulae ad Familiares (Cicero)](https://archive.org/details/letterstohisfrie01ciceuoft/page/364/mode/2up)
+- *Consummatum est*: [Vulgate, Bible (Iesus Nazarenus)](https://en.wikipedia.org/wiki/Vulgate), 350 AD
+- *Manus manum lavat*: [Apocolocyntosis (Seneca)](https://en.wikipedia.org/wiki/Apocolocyntosis), 50 AD
+- *Flamma fumo est proxima*: [Curculio (Plautus)](https://en.wikipedia.org/wiki/Curculio_(play)), 200 BC
+- *Anguis in herba*: [Eclogues (Virgil)](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0056%3Apoem%3D3), 50 BC
