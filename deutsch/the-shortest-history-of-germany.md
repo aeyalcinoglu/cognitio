@@ -9,7 +9,7 @@
 - First record via *quis vs was* is around `500 BC`, north of Rhine and Elbe, well over Danube. Most south being around Lower Saxony and then to current Denmark and South Sweden, around Stockholm.
 	- `Danube`: From Black Forest to Black Sea. Second longest river in Europe
 	- `Rhine`: From Swiss Alps to North Sea
-	- `Elbe`: From Giant Mountains (Czech) to North Sea, over Rhine. This is the one that Spree flows into 
+	- `Elbe`: From Giant Mountains (Czech) to North Sea, east of Rhine. This is the one that Spree flows into 
 - Around 150 BC proto-Germans had started interacting with the Mediterranean world, civilisation.
 - They were considered just generic barbarians. *No one ever called anyone a German until 58 BC*. 
 
@@ -39,5 +39,13 @@
 - [Battle of Tours](https://en.wikipedia.org/wiki/Battle_of_Tours )was fought on 10.10.732, was an important battle during the Umayyad invasion of Gaul.
 - In 753 AD, Stephen II became the first Pope ever to journey north of the Alps. See [donation of Pepin](https://en.wikipedia.org/wiki/Donation_of_Pepin).
 - Charlemagne (748-	814), king of Franks, Lombards and Emperor of the Carolingian Empire was the first recognised emperor to rule from the west after the fall of the Western Roman Empire approximately three centuries earlier. Charlemagne's reign was marked by political and social changes that had lasting influence on Europe throughout the Middle Ages.
-- The Hildebrandslied is the earliest poetic text in German. See [Rostam and Sohrab](https://en.wikipedia.org/wiki/Rostam_and_Sohrab) in Şahname.
-- Origin of `deutsch`: [`theodisce`](https://en.wikipedia.org/wiki/Theodiscus), around 800 AD.
+- The Hildebrandslied is the earliest poetic text in Althochdeutsch. See [Rostam and Sohrab](https://en.wikipedia.org/wiki/Rostam_and_Sohrab) in Şahname.
+- Origin of `deutsch`: [`theodisce`](https://en.wikipedia.org/wiki/Theodiscus), around 800 AD. It means non-Latinate Frankish tongues, comes from Anglo-Saxons.
+- Old French is a blend of Romance base from Vulgar Latin spoken in Gaul and Germanic flavor from the Franks. See [Oaths of Strasbourg](https://en.wikipedia.org/wiki/Oaths_of_Strasbourg).
+- [Eldgjá eruption](https://en.wikipedia.org/wiki/Eldgj%C3%A1#10th_century_eruption) happened which forced Germans to go back to to electing kings. 
+- First rulers of East Francia: [Louis the Child](https://en.wikipedia.org/wiki/Louis_the_Child), then first non-Carolingian and elected king [Conrad I of Germany](https://en.wikipedia.org/wiki/Conrad_I_of_Germany). Then comes Henry the Fowler, and his son  Otto The Great (960).
+- Word for Germans in Slavic languages originates from `nemoy`, non-speakers.
+- Otto I used [Translatio imperii](https://en.wikipedia.org/wiki/Translatio_imperii) to be Emperor of the Holy Roman Empire.
+- [Slavic revolt of 983](https://en.wikipedia.org/wiki/Slavic_revolt_of_983) is as central to Slavic history as 9 AD is to German history.
+
+## Battle for Germany (983 - 1525)
