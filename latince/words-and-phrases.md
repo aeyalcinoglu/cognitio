@@ -6,3 +6,4 @@
 - *Manus manum lavat*: [Apocolocyntosis (Seneca)](https://en.wikipedia.org/wiki/Apocolocyntosis), 50 AD
 - *Flamma fumo est proxima*: [Curculio (Plautus)](https://en.wikipedia.org/wiki/Curculio_(play)), 200 BC
 - *Anguis in herba*: [Eclogues (Virgil)](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0056%3Apoem%3D3), 50 BC
+- *Mortui non mordent*: [Adagia (Erasmus)](https://en.wikipedia.org/wiki/Adagia), 1500 AD

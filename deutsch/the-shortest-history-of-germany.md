@@ -49,3 +49,6 @@
 - [Slavic revolt of 983](https://en.wikipedia.org/wiki/Slavic_revolt_of_983) is as central to Slavic history as 9 AD is to German history.
 
 ## Battle for Germany (983 - 1525)
+- Kings, nobility and the Church: Natural leaders of Europe, Roman Emperors, elections
+- [Investiture controversy](https://en.wikipedia.org/wiki/Investiture_Controversy#German_culture) caused Germany to lose its intellectual leadership and never regain it throughout the rest of the Middle Ages. It escalated with [Road to Canossa](https://en.wikipedia.org/wiki/Road_to_Canossa), 1077, by the Holy Roman Emperor Henry IV (also see [Canossagang, Gang nach Canossa](https://www.duden.de/rechtschreibung/Canossagang)). It ended with [Concordat of Worms](https://en.wikipedia.org/wiki/Concordat_of_Worms), 1122, in the benefit of the nobles and churchmen.
+- [Medieval Warm Period](https://en.wikipedia.org/wiki/Medieval_Warm_Period) enabled proper entry to east of Elbe, [Wendish Crusade](https://en.wikipedia.org/wiki/Wendish_Crusade), 1147.
