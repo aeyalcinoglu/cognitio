@@ -48,10 +48,10 @@
   - `Supinum`: Bir üsttekinin Passiva hali
 
 - 4 çeşit çekim vardır. Bir fiilin hangi çekimden olduğu Praesens halinin son harfinden belli olur:
-  - -ā, -āre
-  - -ē, -ēre
-  - sessiz harf veya -ū, -ere
-  - -ī, -īre
+  - `-ā`,` -āre`
+  - -ē, `-ēre`
+  - sessiz harf veya `-ū`, `-ere`
+  - `-ī`, `-īre`
 
 ## Birinci Çekim
-- -o, -s, -t, -mus, -tis, -nt
+- `-o`, `-s`, `-t`, `-mus`, `-tis`, `-nt`
