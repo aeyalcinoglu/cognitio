@@ -1,4 +1,11 @@
 - `viginti`: yirmi
+- `amare`: sevmek
+- `cantare`: şarkı söylemek
+- `pugnare`: harb etmek
+- `saltare`: dans etmek
+- `vocare`: çağırmak
+- `laudare`: methetmek 
+- `rogare`: sormak
 
 # Duolingo
 - `habitāre`: yaşamak
