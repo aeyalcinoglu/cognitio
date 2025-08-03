@@ -14,3 +14,11 @@
 - `sum`, `es`, `est`, `sumus`, `estis`, `sunt`
 - `nulla`, `ūnus`, `duo`, `trēs`, `quattuor`, `quīnque`, `sex`, `septem`, `octō`, `novem`, `decem`
 - Quot fratres habes? = Kaç tane abin var?
+- `liber (m), libri`: kitap  
+- `legere`: okumak  
+- `discere`: öğrenmek
+- `lingua (f), linguae`: dil  
+- `discipulus (m), discipuli`: öğrenci (erkek)
+- `discipula (f), discipulae`: öğrenci (kadın)  
+- `magister (m), magistri`: öğretmen (erkek)  
+- `magistra (f), magistrae`: öğretmen (kadın)

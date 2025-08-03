@@ -12,3 +12,9 @@
 - `Ächtung` ist der Ausschluss einer Person aus der Gesellschaft oder der Verlust ihres rechtlichen Schutzes.
 - `Acht` ist eine mittelalterliche Strafe, bei der eine Person rechtlos gestellt und aus der Gesellschaft ausgeschlossen wurde.
 - `Vogelfrei` (`wolfsfrei`) beschreibt jemanden, der rechtlos ist und von der Gesellschaft geächtet wurde.
+
+### [Zwei Männer in U-Haft](https://www.faz.net/agenturmeldungen/dpa/zwei-maenner-nach-bar-streit-mit-schwerverletzten-in-u-haft-110483598.html)
+> Zu der körperlichen Auseinandersetzung zwischen den vier Männern soll es am frühen Samstagmorgen in einer Bar gekommen sein. Sanitäter brachten die beiden Opfer im Anschluss in ein Krankenhaus.
+- `Auseinandersetzung` ist eine meist heftige, oft auch körperliche Streitigkeit oder Konfrontation zwischen zwei oder mehreren Personen.
+- `gekommen sein` bedeutet, dass sich eine Situation tatsächlich ereignet oder verwirklicht hat – etwa in der Wendung "es ist dazu gekommen".
+- `Sanitäter` sind medizinisch ausgebildete Ersthelfer, die bei Notfällen vor Ort erste medizinische Maßnahmen ergreifen und Patienten ins Krankenhaus transportieren.
