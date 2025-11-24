@@ -3,6 +3,8 @@
 
 ## Words
 - der Kalkstein: Limestone
+- der Anteilseigner: Shareholder
+- der Segler: Sailor
 
 ## Groups
 
