@@ -67,3 +67,23 @@ Momente, deren Zusammenschließung erst ihr lebendiger Fortgang wird." (p. 32, f
 - "... acts conceived as defensive in China may be treated as aggressive by the outside world; deterrent moves by the West may be interpreted in China as encirclement."
 - "In September and October 1950, when the N[KPA](https://en.wikipedia.org/wiki/Korean_People%27s_Army) were being driven back by the US 8th Army, Stalin – writing under the pseudonym ‘Fyn Si’ – did send two long letters giving military advice to [Kim Il Sung](https://en.wikipedia.org/wiki/Kim_Il_Sung)." [Reference](https://www.johndclare.net/KoreanWar_Stalin.htm)
 - There is a telegram from Mao to Stalin (p. 141) (1950 October) of which two contradictory versions are held in the archives of Beijing and Moscow. This suggests that as Chinese troops advanced toward Korea, the Chinese leadership was still debating. As a result of the war, U.S. also showed an inability to harmonize political and military goals.
+
+
+## China Confronts Both Superpowers
+- "In Asia, therefore, there were very few, if any, purely military challenges. Military strategy and political and social reform were inextricably linked."
+- ["The Chinese people cannot be cowed by the atom bomb"](https://www.marxists.org/reference/archive/mao/selected-works/volume-5/mswv5_40.htm)
+- [On the Cult of Personality and Its Consequences](https://en.wikipedia.org/wiki/On_the_Cult_of_Personality_and_Its_Consequences): Khrushchev's Secret Speech (1956). Sharply criticized Stalin
+- [Berlin Crisis of 1961](https://en.wikipedia.org/wiki/Berlin_Crisis_of_1961): Escalation on the ground, led USSR to build Berlin wall.
+- [Dalai Lama](https://en.wikipedia.org/wiki/Dalai_Lama): The Dalai Lama, born Tenzin Gyatso in 1935 in Tibet, became the 14th Dalai Lama in 1940. He fled to India in 1959 after [China’s takeover](https://en.wikipedia.org/wiki/Annexation_of_Tibet_by_China) and has lived in exile since, leading Tibetans spiritually.
+- "... an almost whimsical pattern of shelling ... Mao described ... as an act of political battle ..."
+- [Peaceful coexistence](https://en.wikipedia.org/wiki/Peaceful_coexistence): Soviet Cold War doctrine claiming socialism and capitalism could coexist without war.
+- (1958) Soviets proposed the construction of a joint strategic submarine fleet which was strongly [rejected by Mao](https://en.wikipedia.org/wiki/Sino-Soviet_split). Khrushchev secretly visited Beijing in an unsuccessful attempt to salvage the proposal. Three weeks later [Second Taiwan Strait Crisis ](https://en.wikipedia.org/wiki/Second_Taiwan_Strait_Crisis) started. This trick made Eisenhower believe cooperation and forced Khrushchev's hand.
+- [Quotations from Chairman Mao Tse-tung](https://en.wikipedia.org/wiki/Quotations_from_Chairman_Mao_Tse-tung): Also known as Little Red Book. Published from 1964 to 1979 and widely distributed during the [Cultural Revolution](https://en.wikipedia.org/wiki/Cultural_Revolution). Also see [Xiaohongshu](https://en.wikipedia.org/wiki/Xiaohongshu).
+
+
+<div align="center">
+
+  [Big-character poster](https://en.wikipedia.org/wiki/Big-character_poster)
+
+  <img src="./big-char-poster.png" alt="big-char-poster" width="500"/>
+</div>
