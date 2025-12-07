@@ -87,3 +87,10 @@ Momente, deren Zusammenschließung erst ihr lebendiger Fortgang wird." (p. 32, f
 
   <img src="./big-char-poster.png" alt="big-char-poster" width="500"/>
 </div>
+
+
+## A Decade of Crises (1958-1968)
+- [Forward Policy](https://en.wikipedia.org/wiki/Forward_policy_(Sino-Indian_conflict)): 1959–1962. India advanced small posts toward disputed frontier, escalating tensions with China. Mao finally canceled the previous withdrawal orders: "Lack of forbearance in small matters upsets great plans. We must pay attention to the situation".
+- [Red Guards](https://en.wikipedia.org/wiki/Red_Guards) (1966-1968) carried out assaults during Cultural Revolution. Targeting the [Four Olds](https://en.wikipedia.org/wiki/Four_Olds) and Confucian legacy, students destroyed cultural sites, with [Zhou Enlai](https://en.wikipedia.org/wiki/Zhou_Enlai) intervening to prevent damage to Forbidden City. See also [Criticize Lin, Criticize Confucius](https://en.wikipedia.org/wiki/Criticize_Lin,_Criticize_Confucius).
+- "Even in the United States, major legislative acts often comprise thousands of pages that, to put it mildly, only the fewest legislators have read in detail."
+- [Food for Peace](https://en.wikipedia.org/wiki/Food_for_Peace) (1954–present): U.S. program sending agricultural aid abroad for diplomacy and hunger relief. See [Public Law 480](https://www.govinfo.gov/content/pkg/STATUTE-68/pdf/STATUTE-68-Pg454-2.pdf).
