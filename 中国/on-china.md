@@ -4,7 +4,7 @@ by Herry Kissinger, 2011
 ## Prebook
 
 <div align="center">
-  <img src="./china-map.jpg" alt="china-map" width="500"/>
+  <img src="./images/china-map.jpg" alt="china-map" width="500"/>
 </div>
 
 - Ancient China – c. 2100–1046 BC – early states, bronze, writing
@@ -36,7 +36,7 @@ Momente, deren Zusammenschließung erst ihr lebendiger Fortgang wird." (p. 32, f
 ## The Kowtow Question and the Opium War
 
 <div align="center">
-  <img src="./lord-macartney.jpg" alt="lord-macartney" width="500"/>
+  <img src="./images/lord-macartney.jpg" alt="lord-macartney" width="500"/>
 </div>
 
 - "... challenged the basic [Chinese cosmology](https://en.wikipedia.org/wiki/Chinese_creation_myths) and left wounds still festering over a century later in an age of restored Chinese eminence." See [Macartney Mission](https://en.wikipedia.org/wiki/Macartney_Embassy), 1793. Also see the [official report](https://en.wikipedia.org/wiki/An_Authentic_Account_of_an_Embassy_from_the_King_of_Great_Britain_to_the_Emperor_of_China) (it also has a unique-to-me ToC).
@@ -53,7 +53,7 @@ Momente, deren Zusammenschließung erst ihr lebendiger Fortgang wird." (p. 32, f
 ## Mao's Continuous Revolution
 
 <div align="center">
-  <img src="./mao-zedong.jpg" alt="mao-zedong" width="500"/>
+  <img src="./images/mao-zedong.jpg" alt="mao-zedong" width="500"/>
 </div>
 
 - [diametrical](https://en.wiktionary.org/wiki/diametrical)
@@ -85,7 +85,7 @@ Momente, deren Zusammenschließung erst ihr lebendiger Fortgang wird." (p. 32, f
 
   [Big-character poster](https://en.wikipedia.org/wiki/Big-character_poster)
 
-  <img src="./big-char-poster.png" alt="big-char-poster" width="500"/>
+  <img src="./images/big-char-poster.png" alt="big-char-poster" width="500"/>
 </div>
 
 
@@ -106,3 +106,14 @@ Momente, deren Zusammenschließung erst ihr lebendiger Fortgang wird." (p. 32, f
 - "Diplomacy to them [the Chinese] is the elaboration of a strategic principle [weaving together political, military, and psychological elements]" and "... once negotiations begin, they [negotiations] are seen [by U.S.] as being propelled by their own internal logic."
 - Latin [sic](https://en.wikipedia.org/wiki/Sic) ("thus") signals quoted text is reproduced exactly, including errors or unusual forms.
 - [Ping-Pong Diplomacy](https://en.wikipedia.org/wiki/Ping-pong_diplomacy) (1971): U.S.–China relations eased through table tennis exchanges, paving the way for Nixon’s 1972 China visit. See p. 232 on Mao's insomnia.
+
+## Resumption of Relations: First Encounters with Mao and Zhou
+- During Kissinger’s first visit, he feigned illness to buy time and preserve the secrecy of the meeting.
+- "The advisor of the prince occasionally faces the dilemma of balancing the benefits of the ability to alter events against the possibility of exclusion... How does one measure the element of nuance over time against the claims of absolutes in the immediate?"
+- "The difference is that Chinese leaders relate the friendship less to personal qualities and more to long-term cultural, national, or historic ties; Americans stress the individual qualities of their counterparts."
+- In those first exchanges in the summer of 1971, Zhou outlines a new approach to international relations: "Chairman Mao on many occasions has said that we would absolutely not become a superpower. What we strive for is that all countries, big or small, be equal."
+- Alexander the Great confronted the [Gordian Knot](https://en.wikipedia.org/wiki/Gordian_Knot), resolved it by cutting through it. It became a metaphor for bold, unconventional solutions to seemingly impossible problems. This was term was in the book regarding Zhou's initial handling of the Taiwan issue.
+- The communique for the Nixon's visit had a deadlock over who would be said to have invited whom. Mao approved a version where Nixon "expressed desire to visit" and Mao "extended [additional to Kissinger] an invitation" and Nixon had "accepted with pleasure".
+- Mao's residence: No visible guards, a small anteroom filled with a Ping-Pong table. Mao's study was "a room of modest size with bookshelves lining three walls... disarray. Books covered the tables and were piled up on the floor. A simple wooden bed stood in a corner."
+- Mao mockingly observes himself: "... people like me sound a lot of big cannons. That is, things like 'the whole world should unite and defeat imperialism, revisionism, and all reactionaries, and establish socialism'". See p. 262.
+- "Usually men of strong will... may not be able to resolve deadlocks when time is short and the media insistent. As a result, diplomats frequently arrive at major meetings with communiques already largely drafted."
