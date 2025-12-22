@@ -71,7 +71,7 @@ Momente, deren Zusammenschließung erst ihr lebendiger Fortgang wird." (p. 32, f
 
 ## China Confronts Both Superpowers
 - "In Asia, therefore, there were very few, if any, purely military challenges. Military strategy and political and social reform were inextricably linked."
-- ["The Chinese people cannot be cowed by the atom bomb"](https://www.marxists.org/reference/archive/mao/selected-works/volume-5/mswv5_40.htm)
+- ["The Chinese people cannot be cowed by the atom bomb"](https://www.marxists.org/reference/archive/mao/selected-works/volume-5/mswv5_40.htm). See also [Mutually assured destruction](https://en.wikipedia.org/wiki/Mutually_assured_destruction).
 - [On the Cult of Personality and Its Consequences](https://en.wikipedia.org/wiki/On_the_Cult_of_Personality_and_Its_Consequences): Khrushchev's Secret Speech (1956). Sharply criticized Stalin
 - [Berlin Crisis of 1961](https://en.wikipedia.org/wiki/Berlin_Crisis_of_1961): Escalation on the ground, led USSR to build Berlin wall.
 - [Dalai Lama](https://en.wikipedia.org/wiki/Dalai_Lama): The Dalai Lama, born Tenzin Gyatso in 1935 in Tibet, became the 14th Dalai Lama in 1940. He fled to India in 1959 after [China’s takeover](https://en.wikipedia.org/wiki/Annexation_of_Tibet_by_China) and has lived in exile since, leading Tibetans spiritually.
@@ -108,6 +108,12 @@ Momente, deren Zusammenschließung erst ihr lebendiger Fortgang wird." (p. 32, f
 - [Ping-Pong Diplomacy](https://en.wikipedia.org/wiki/Ping-pong_diplomacy) (1971): U.S.–China relations eased through table tennis exchanges, paving the way for Nixon’s 1972 China visit. See p. 232 on Mao's insomnia.
 
 ## Resumption of Relations: First Encounters with Mao and Zhou
+
+<div align="center">
+  <img src="./images/nixon-mao.jpg" alt="nixon-mao" width="500"/>
+</div>
+
+
 - During Kissinger’s first visit, he feigned illness to buy time and preserve the secrecy of the meeting.
 - "The advisor of the prince occasionally faces the dilemma of balancing the benefits of the ability to alter events against the possibility of exclusion... How does one measure the element of nuance over time against the claims of absolutes in the immediate?"
 - "The difference is that Chinese leaders relate the friendship less to personal qualities and more to long-term cultural, national, or historic ties; Americans stress the individual qualities of their counterparts."
@@ -117,3 +123,24 @@ Momente, deren Zusammenschließung erst ihr lebendiger Fortgang wird." (p. 32, f
 - Mao's residence: No visible guards, a small anteroom filled with a Ping-Pong table. Mao's study was "a room of modest size with bookshelves lining three walls... disarray. Books covered the tables and were piled up on the floor. A simple wooden bed stood in a corner."
 - Mao mockingly observes himself: "... people like me sound a lot of big cannons. That is, things like 'the whole world should unite and defeat imperialism, revisionism, and all reactionaries, and establish socialism'". See p. 262.
 - "Usually men of strong will... may not be able to resolve deadlocks when time is short and the media insistent. As a result, diplomats frequently arrive at major meetings with communiques already largely drafted."
+
+## The Quasi-Alliance: Conversations with Mao
+- [Containment](https://en.wikipedia.org/wiki/Containment) was a U.S. Cold War policy preventing communism’s spread. See [X Article](https://en.wikipedia.org/wiki/X_Article) by George F. Kennan, 1947. Mao had talks with the U.S. examining containment’s periphery, country by country.
+- Mao, 1973: "You say, away with you Communists. We say, away with you imperialists. Sometimes we say things like that. It would not do not to do that." Kissinger: "Ideology would be relegated to domestic management; it took a leave from foreign policy."
+- [Watergate scandal](https://en.wikipedia.org/wiki/Watergate_scandal): 1972. Mao said "it was not necessary to conduct Watergate affair in that manner." It led to [War Powers Act](https://en.wikipedia.org/wiki/War_Powers_Resolution). The impact was negative on China-U.S. relations.
+
+## The End of the Mao Era
+- [Lin Biao](https://en.wikipedia.org/wiki/Lin_Biao) (1907–1971): Chinese military leader and Mao’s chosen successor, later accused of plotting a coup and killed in a plane crash. Contributed to the succession crisis.
+- [Gang of Four](https://en.wikipedia.org/wiki/Gang_of_Four): Ideologists, Maoist as opposed to practical and Confucian like Deng and Zhou (Zhou explodes when Kissinger implies they remained Confucian, see p. 299). Led by Jiang Qing, Mao’s wife. They were arrested shortly after Mao's death. See [a video](https://www.youtube.com/watch?v=unuGt6Bq2io) from their trial. [Wang Hongwen](https://en.wikipedia.org/wiki/Wang_Hongwen) was the youngest member, who enjoyed a meteoric rise from being a security guard at a factory to the third position in the party. 
+- [Red Detachment of Women](https://en.wikipedia.org/wiki/Red_Detachment_of_Women_(ballet)): Chinese ballet, premiered in 1964 and dominated the national stage during the Cultural Revolution. It was also performed for Nixon in 1972.
+- [Three Worlds Theory](https://en.wikipedia.org/wiki/Three_Worlds_Theory): Mao's 1970s Chinese Cold War theory classifying superpowers, developed states, and developing nations for strategic alignment purposes.
+- Mao: "... God blesses you [Kissinger, Americans], not us. God does not like us because I am a militant warlord, also a communist".
+- Mao used the [Dunkirk evacuation](https://en.wikipedia.org/wiki/Dunkirk_evacuation) to make a point in a conversation. He was also using a similar argument of retreating and having a guerrilla war if necessary, for a completely different point. See [Long March](https://en.wikipedia.org/wiki/Long_March).
+
+## The Indestructible Deng
+- Deng Xiaoping’s son fell from a Beijing university building in 1968 after Red Guards detained and abused him during the Cultural Revolution, leaving him permanently paralyzed.
+- Deng: ["The Army Needs To Be Consolidated"](https://www.marxists.org/reference/archive/deng-xiaoping/1975/11.htm). See also [Three Rules of Discipline and Eight Points for Attention](https://en.wikipedia.org/wiki/Three_Rules_of_Discipline_and_Eight_Points_for_Attention).
+- Successor to Mao, Hua Guofeng said [Two Whatevers](https://en.wikipedia.org/wiki/Two_Whatevers): "We will resolutely uphold whatever policy decisions Chairman Mao made, and unswervingly follow whatever instructions Chairman Mao gave". He organized the arrest of Gang of Four and quickly got replaced by Deng.
+- Deng stressed the importance of decentralization and creativity. He advocated that the consumer goods had to have priority over heavy industry etc. Deng: [Emancipate the Mind, Seek Truth From Facts and Unite As One In Looking to the Future](https://www.marxists.org/reference/archive/deng-xiaoping/1978/110.htm). Also see [Seek truth from facts](https://en.wikipedia.org/wiki/Seek_truth_from_facts), an expression from 111 CE from Book of Han, popularized by Mao.
+- Around 1976, America's total trade with China was lower than its trade with Honduras and one-tenth of its trade with Taiwan, which had approximately 1.6 percent of China's population.
+- Kissinger: "The revolutionary's dilemma... the more existing obligations are dismantled, the more force must be used to re-create a sense of obligation. Hence the frequent outcome of revolution is an increase in central power... The dilemma of reform is the opposite. The more the scope of choice is expanded, the harder it becomes to compartmentalize it."
