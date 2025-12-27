@@ -26,6 +26,7 @@ by Herry Kissinger, 2011
 ## The Singulariy of China
 - [Yellow Emperor](https://en.wikipedia.org/wiki/Yellow_Emperor): 2700 BC, Yellow River region. Initiator of the Chinese culture, innovator.
 - [Romance of the Three Kingdoms](https://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms): 14th-century, set in end of Han dynasty. "合久必分，分久必合" - "Hé jiǔ bì fēn, fēn jiǔ bì hé" - "long united, must divide - long divided, must unite".
+- [Zheng He](https://en.wikipedia.org/wiki/Zheng_He): 1371–1433, Chinese eunuch, admiral and diplomat. Born into a Muslim family. He launched a remarkable and mysterious naval enterprise. At the time the European age of exploration had not yet begun. He was a singular figure in Chinese history.
 - [Analects](https://en.wikipedia.org/wiki/Analects): Confucius. Composed during the Warring States period, around 200 pages.
 - [Center of Gravity](https://en.wikipedia.org/wiki/Center_of_gravity_(military)): Coined by [Carl von Clausewitz](https://en.wikipedia.org/wiki/Carl_von_Clausewitz), a Prussian military theorist, in [On War](https://en.wikipedia.org/wiki/On_War). More obvious to see in chess than go.
 - [The Art of War](https://en.wikipedia.org/wiki/The_Art_of_War): A military treatise attributed to [Sun Tzu](https://en.wikipedia.org/wiki/Sun_Tzu), written during the late [Spring and Autumn period](https://en.wikipedia.org/wiki/Spring_and_Autumn_period). Focuses on strategy, deception, positioning, understanding terrain, morale, and timing. Differs from Western thought by emphasizing the psychological and political elements over the purely military. See [勢 (shì)](https://en.wiktionary.org/wiki/勢#Definitions).
@@ -77,7 +78,7 @@ Momente, deren Zusammenschließung erst ihr lebendiger Fortgang wird." (p. 32, f
 - [Dalai Lama](https://en.wikipedia.org/wiki/Dalai_Lama): The Dalai Lama, born Tenzin Gyatso in 1935 in Tibet, became the 14th Dalai Lama in 1940. He fled to India in 1959 after [China’s takeover](https://en.wikipedia.org/wiki/Annexation_of_Tibet_by_China) and has lived in exile since, leading Tibetans spiritually.
 - "... an almost whimsical pattern of shelling ... Mao described ... as an act of political battle ..."
 - [Peaceful coexistence](https://en.wikipedia.org/wiki/Peaceful_coexistence): Soviet Cold War doctrine claiming socialism and capitalism could coexist without war.
-- (1958) Soviets proposed the construction of a joint strategic submarine fleet which was strongly [rejected by Mao](https://en.wikipedia.org/wiki/Sino-Soviet_split). Khrushchev secretly visited Beijing in an unsuccessful attempt to salvage the proposal. Three weeks later [Second Taiwan Strait Crisis ](https://en.wikipedia.org/wiki/Second_Taiwan_Strait_Crisis) started. This trick made Eisenhower believe cooperation and forced Khrushchev's hand.
+- (1958) Soviets proposed the construction of a joint strategic submarine fleet which was strongly [rejected by Mao](https://en.wikipedia.org/wiki/Sino-Soviet_split). Khrushchev secretly visited Beijing in an unsuccessful attempt to salvage the proposal. Three weeks later [Second Taiwan Strait Crisis](https://en.wikipedia.org/wiki/Second_Taiwan_Strait_Crisis) started. This trick made Eisenhower believe cooperation and forced Khrushchev's hand.
 - [Quotations from Chairman Mao Tse-tung](https://en.wikipedia.org/wiki/Quotations_from_Chairman_Mao_Tse-tung): Also known as Little Red Book. Published from 1964 to 1979 and widely distributed during the [Cultural Revolution](https://en.wikipedia.org/wiki/Cultural_Revolution). Also see [Xiaohongshu](https://en.wikipedia.org/wiki/Xiaohongshu).
 
 
@@ -144,3 +145,21 @@ Momente, deren Zusammenschließung erst ihr lebendiger Fortgang wird." (p. 32, f
 - Deng stressed the importance of decentralization and creativity. He advocated that the consumer goods had to have priority over heavy industry etc. Deng: [Emancipate the Mind, Seek Truth From Facts and Unite As One In Looking to the Future](https://www.marxists.org/reference/archive/deng-xiaoping/1978/110.htm). Also see [Seek truth from facts](https://en.wikipedia.org/wiki/Seek_truth_from_facts), an expression from 111 CE from Book of Han, popularized by Mao.
 - Around 1976, America's total trade with China was lower than its trade with Honduras and one-tenth of its trade with Taiwan, which had approximately 1.6 percent of China's population.
 - Kissinger: "The revolutionary's dilemma... the more existing obligations are dismantled, the more force must be used to re-create a sense of obligation. Hence the frequent outcome of revolution is an increase in central power... The dilemma of reform is the opposite. The more the scope of choice is expanded, the harder it becomes to compartmentalize it."
+
+## "Touching the Tiger's Buttocks"
+- "Hanoi was not any other country's proxy. It fought for its vision of independence and, ultimately, for an Indochinese Federation." and "... Chinese culture provided Vietnam with a Chinese-style Confucian elite who possessed something of a regional Middle kingdom complex of their own..."
+- [Khmer Rouge](https://en.wikipedia.org/wiki/Khmer_Rouge) was a Cambodian communist movement ruling Cambodia from 1975 to 1979, responsible for mass killings. [Pol Pot](https://en.wikipedia.org/wiki/Pol_Pot) was their leader. China supported them during the [Third Vietnam War](https://en.wikipedia.org/wiki/Sino-Vietnamese_War). Due to their genocidal conduct, "... no American President could treat them as another stone in the wei qi strategy... [However,] American ideals had encountered the imperatives of geopolitical reality."
+- Before China attacked Vietnam in early 1979, Deng visited U.S. also in early 1979. One of the purposes was to intimidate the Soviet Union. In this sense, it is similar to Mao's visit to Russia before Second Taiwan Strait Crisis.
+- [Carthago delenda est](https://en.wikipedia.org/wiki/Carthago_delenda_est)
+
+## Reagan and the Advent of Normalcy
+
+<div align="center">
+  <img src="./images/deng-rodeo.jpeg" alt="deng-rodeo" width="500"/>
+</div>
+
+- Ronald Reagan balanced ideology and geopolitics, issuing the [Third Communiqué](https://en.wikipedia.org/wiki/Three_Communiqués#3rd), preserving Taiwan ties while stabilizing triangular relations with Beijing through ambiguity. He had good personal relationship with Taiwanese executives and said "no more betrayals".
+- Reagan quotes [I Ching](https://en.wikipedia.org/wiki/I_Ching) (Book of Changes, 1000-750 BC), which is an ancient Chinese [divination](https://en.wikipedia.org/wiki/Divination) classic. He says "同利合作" - "Tóng lì hé zuò" - "connect strength, work together" and "互敬互惠" - "Hù jìng hù huì" - "mutual respect, mutual benefit". 
+- Kissinger: "Central planning, moreover, provided few incentives to emphasize quality or innovation. Since all a manager produced would be bought by a relevant ministry, quality was not a consideration. And innovation was, in effect, discouraged lest it throw the whole planning edifice out of kilter."
+- China experienced a systematic decentralization. The state kept ownership, but gave managers real authority to run enterprises independently. See [Reform and opening up](https://en.wikipedia.org/wiki/Reform_and_opening_up). China joined the IMF and World Bank in April 1980.
+- Deng's protégé [Hu Yaobang](https://en.wikipedia.org/wiki/Hu_Yaobang) suggests that Chinese abandon chopsticks for knives and forks.
