@@ -158,8 +158,35 @@ Momente, deren Zusammenschließung erst ihr lebendiger Fortgang wird." (p. 32, f
   <img src="./images/deng-rodeo.jpeg" alt="deng-rodeo" width="500"/>
 </div>
 
+- China starts "maneuvering in the triangle", now that Soviets lost power. See the CIA report [Sino-Soviet Exchanges, 1969-84](https://www.cia.gov/readingroom/docs/CIA-RDP11S00229R000201310001-2.pdf).
 - Ronald Reagan balanced ideology and geopolitics, issuing the [Third Communiqué](https://en.wikipedia.org/wiki/Three_Communiqués#3rd), preserving Taiwan ties while stabilizing triangular relations with Beijing through ambiguity. He had good personal relationship with Taiwanese executives and said "no more betrayals".
 - Reagan quotes [I Ching](https://en.wikipedia.org/wiki/I_Ching) (Book of Changes, 1000-750 BC), which is an ancient Chinese [divination](https://en.wikipedia.org/wiki/Divination) classic. He says "同利合作" - "Tóng lì hé zuò" - "connect strength, work together" and "互敬互惠" - "Hù jìng hù huì" - "mutual respect, mutual benefit". 
 - Kissinger: "Central planning, moreover, provided few incentives to emphasize quality or innovation. Since all a manager produced would be bought by a relevant ministry, quality was not a consideration. And innovation was, in effect, discouraged lest it throw the whole planning edifice out of kilter."
 - China experienced a systematic decentralization. The state kept ownership, but gave managers real authority to run enterprises independently. See [Reform and opening up](https://en.wikipedia.org/wiki/Reform_and_opening_up). China joined the IMF and World Bank in April 1980.
 - Deng's protégé [Hu Yaobang](https://en.wikipedia.org/wiki/Hu_Yaobang) suggests that Chinese abandon chopsticks for knives and forks.
+
+## Tiananmen
+- In mid-1980s, Gorbachev popularised the terms [glasnost](https://en.wikipedia.org/wiki/Glasnost) and [perestroika](https://en.wikipedia.org/wiki/Perestroika), related to transparency in politics and economy.
+- [River Elegy](https://en.wikipedia.org/wiki/River_Elegy): 1988, CCTV. A documentary portraying the decline of traditional Chinese culture. It caused a discussion at the highest levels of government. [Watch here](https://www.youtube.com/watch?v=39j4ViRxcS8).
+- It all began with the death of Hu Yaobang. He was already replaced by [Zhao Ziyang](https://en.wikipedia.org/wiki/Zhao_Ziyang) ("if you want to eat, look for Ziyang.") as General Secretary, who got dismissed after Tiananmen.
+- [May Fourth Movement](https://en.wikipedia.org/wiki/May_Fourth_Movement): Students gathered in front of Tiananmen, in 1919, to protest the Chinese government's weak response to the Treaty of Versailles.
+- [1989 Ürümqi unrest](https://en.wikipedia.org/wiki/1989_Ürümqi_unrest) of Muslim Uyghurs overlaps with Tiananmen. The immediate cause was a book called Sexual Customs, which eventually got banned and burnt.
+- The suppression of the Tiananmen protest was all on television, media was already there for the Gorbachev visit. Tension rose for many reasons but in some sense as an inevitable result of Deng's reforms. CCP was not ready for it and it caused factions even in PLA. U.S. needed to react negatively for the human rights causes and carefully for the geopolitics. Bush, as a Cold War veteran was careful. See [Jiang Zemin answering](https://www.youtube.com/watch?v=GdWOWPjafDs&t=401s) the Tank Man question.
+- America's dilemma, the response on Tiananmen, combined with new developments especially the collapse of Soviet Union changed the essence of Sino-U.S. relations. Bush carefully organizes a top secret visit of his highest officials but Clinton is less friendly. China also faces a strong internal dilemma, of communism. "The interpretation of history expresses the memory of a nation."
+- China tries to apply [Five Principles of Peaceful Coexistence](https://en.wikipedia.org/wiki/Five_Principles_of_Peaceful_Coexistence), which is developed in 1954 with India, to its relationship with America. It doesn't want to export communism.
+- Kissinger: "Most wars occur as the result of a combination of misjudgment of the power relationships and domestic pressures." and "Philosophers are responsible to their intuition. Statesmen are judged by their ability to sustain their concepts over time."
+- Deng leaves behind two documents: a 24-character instruction and a 12-character explanation restricted to high officials: "Observe carefully; secure our position; cope with affairs calmly; hide our capacities and bide our time; be good at maintaining a low profile; and never claim leadership" and "Enemy troops are outside the walls. They are stronger than we. We should be mainly on the defensive."
+
+## What Kind of Reform?
+- See [Deng Xiaoping's southern tour](https://en.wikipedia.org/wiki/Deng_Xiaoping%27s_southern_tour). Deng's last public service, 1992.
+- [Four Big Things](https://en.wikipedia.org/wiki/Four_Big_Things): 四大件, sì dà jiàn. A sewing machine, bicycle, wrist watch and a radio receiver.
+
+## A Roller Coaster Ride Toward Another Reconciliation
+- Jiang (1989-2003) doesn't have a power base of his own and didn't dominate foreign policy until 1997. [Watch Jiang](https://www.youtube.com/watch?v=GdWOWPjafDs&t=960s) quoting [Gettysburg Address](https://en.wikipedia.org/wiki/Gettysburg_Address): "... all men are created equal." He is flamboyant. See [Three Represents](https://en.wikipedia.org/wiki/Three_Represents).
+- U.S. pressuring for human rights and democracy had different camps of thought (the dilemma). A pejorative adjective "entered into the debate, dismissing traditional diplomacy as 'transactional'. In that view, a constructive long-term relationship with nondemocratic states is not sustainable almost by definition."
+- See [Jackson–Vanik amendment](https://en.wikipedia.org/wiki/Jackson–Vanik_amendment).
+- Gorbachev's modernization program was rejected. "In the Chinese view, political reform might be needed over time, but economic reform had to precede it."
+- In early 1990s a new concept had evolved: Nation-state was declining and transnational principles were raising. Both China and U.S. had to redefine the ultimate nature of their relationship.
+- All the tension, including the package consisting of [Fang Lizhi](https://en.wikipedia.org/wiki/Fang_Lizhi) finally had a break with the visit of Secretary of State in 1994, which ended up upsetting China too much and Clinton quietly abandoned its policy of conditionality on [most favoured nation (MFN)](https://en.wikipedia.org/wiki/Most_favoured_nation).
+- [Lee Teng-hui](https://en.wikipedia.org/wiki/Lee_Teng-hui)'s ambitions triggers [Third Taiwan Strait Crisis](https://en.wikipedia.org/wiki/Third_Taiwan_Strait_Crisis), 1995-96. See also [Jiang's Eight Points](https://en.wikipedia.org/wiki/Jiang%27s_Eight_Points).
+- Jiang: "I am an engineer. I calculated that there have been 78 generations from Confucius until now."
