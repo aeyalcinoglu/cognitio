@@ -1,29 +1,7 @@
 # On China
-by Herry Kissinger, 2011
+by Dr. Henry Kissinger, 2011
 
-## Prebook
-
-<div align="center">
-  <img src="./images/china-map.jpg" alt="china-map" width="500"/>
-</div>
-
-- Ancient China – c. 2100–1046 BC – early states, bronze, writing
-- Zhou Dynasty – 1046–256 BC – feudal order, Confucius, Daoism emerge
-- Warring States – 475–221 BC – rival kingdoms, major philosophies
-- Qin Dynasty – 221–206 BC – first unification, legalist empire
-- Han Dynasty – 206 BC–220 AD – bureaucracy, Silk Road, expansion
-- Three Kingdoms – 220–280 – division, famous warfare era
-- Jin & Six Dynasties – 265–589 – fragmentation, cultural innovation
-- Sui Dynasty – 581–618 – reunification, Grand Canal
-- Tang Dynasty – 618–907 – golden age, cosmopolitan empire
-- Song Dynasty – 960–1279 – commerce, gunpowder, printing advances
-- Yuan Dynasty – 1271–1368 – Mongol rule, Eurasian connections
-- Ming Dynasty – 1368–1644 – maritime voyages, strong state
-- Qing Dynasty – 1644–1912 – expansion, later decline
-- Republic of China – 1912–1949 – warlords, invasion, civil war
-- People’s Republic of China – 1949–present – industrialization, global rise
-
-## The Singulariy of China
+## The Singularity of China
 - [Yellow Emperor](https://en.wikipedia.org/wiki/Yellow_Emperor): 2700 BC, Yellow River region. Initiator of the Chinese culture, innovator.
 - [Romance of the Three Kingdoms](https://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms): 14th-century, set in end of Han dynasty. "合久必分，分久必合" - "Hé jiǔ bì fēn, fēn jiǔ bì hé" - "long united, must divide - long divided, must unite".
 - [Zheng He](https://en.wikipedia.org/wiki/Zheng_He): 1371–1433, Chinese eunuch, admiral and diplomat. Born into a Muslim family. He launched a remarkable and mysterious naval enterprise. At the time the European age of exploration had not yet begun. He was a singular figure in Chinese history.
@@ -119,7 +97,7 @@ Momente, deren Zusammenschließung erst ihr lebendiger Fortgang wird." (p. 32, f
 - "The advisor of the prince occasionally faces the dilemma of balancing the benefits of the ability to alter events against the possibility of exclusion... How does one measure the element of nuance over time against the claims of absolutes in the immediate?"
 - "The difference is that Chinese leaders relate the friendship less to personal qualities and more to long-term cultural, national, or historic ties; Americans stress the individual qualities of their counterparts."
 - In those first exchanges in the summer of 1971, Zhou outlines a new approach to international relations: "Chairman Mao on many occasions has said that we would absolutely not become a superpower. What we strive for is that all countries, big or small, be equal."
-- Alexander the Great confronted the [Gordian Knot](https://en.wikipedia.org/wiki/Gordian_Knot), resolved it by cutting through it. It became a metaphor for bold, unconventional solutions to seemingly impossible problems. This was term was in the book regarding Zhou's initial handling of the Taiwan issue.
+- Alexander the Great confronted the [Gordian Knot](https://en.wikipedia.org/wiki/Gordian_Knot), resolved it by cutting through it. It became a metaphor for bold, unconventional solutions to seemingly impossible problems. This term was in the book regarding Zhou's initial handling of the Taiwan issue.
 - The communique for the Nixon's visit had a deadlock over who would be said to have invited whom. Mao approved a version where Nixon "expressed desire to visit" and Mao "extended [additional to Kissinger] an invitation" and Nixon had "accepted with pleasure".
 - Mao's residence: No visible guards, a small anteroom filled with a Ping-Pong table. Mao's study was "a room of modest size with bookshelves lining three walls... disarray. Books covered the tables and were piled up on the floor. A simple wooden bed stood in a corner."
 - Mao mockingly observes himself: "... people like me sound a lot of big cannons. That is, things like 'the whole world should unite and defeat imperialism, revisionism, and all reactionaries, and establish socialism'". See p. 262.
@@ -190,3 +168,18 @@ Momente, deren Zusammenschließung erst ihr lebendiger Fortgang wird." (p. 32, f
 - All the tension, including the package consisting of [Fang Lizhi](https://en.wikipedia.org/wiki/Fang_Lizhi) finally had a break with the visit of Secretary of State in 1994, which ended up upsetting China too much and Clinton quietly abandoned its policy of conditionality on [most favoured nation (MFN)](https://en.wikipedia.org/wiki/Most_favoured_nation).
 - [Lee Teng-hui](https://en.wikipedia.org/wiki/Lee_Teng-hui)'s ambitions triggers [Third Taiwan Strait Crisis](https://en.wikipedia.org/wiki/Third_Taiwan_Strait_Crisis), 1995-96. See also [Jiang's Eight Points](https://en.wikipedia.org/wiki/Jiang%27s_Eight_Points).
 - Jiang: "I am an engineer. I calculated that there have been 78 generations from Confucius until now."
+
+<div align="center">
+  <img src="./images/kissinger-jiang.jpg" alt="kissinger-jiang" width="350"/>
+</div>
+
+## The New Millennium
+- After 2002, [fourth generation](https://en.wikipedia.org/wiki/Hu–Wen_Administration) of Chinese leadership, [Hu Jintao](https://en.wikipedia.org/wiki/Hu_Jintao) as general secretary and [Wen Jiabao](https://en.wikipedia.org/wiki/Wen_Jiabao) as the premier came to power. They represented the first generation of top officials without personal experience of the revolution.
+- [Moderately prosperous society](https://en.wikipedia.org/wiki/Moderately_prosperous_society), "xiaokang", is originally from Confucianism, popularised by Hu. It implies a functional middle class. Later Xi replaces it with the term [Chinese Dream](https://en.wikipedia.org/wiki/Chinese_Dream). 
+- China begins studying how to become a superpower: See [The Rise of the Great Powers](https://en.wikipedia.org/wiki/The_Rise_of_the_Great_Powers) and China develops the concept of [China's peaceful rise](https://en.wikipedia.org/wiki/China%27s_peaceful_rise).
+- 2008 financial crisis created a paradigm shift. Western powers asked for devaluation of RMB and increase in Chinese domestic consumption (which is also part of the [Twelfth five-year plan](https://en.wikipedia.org/wiki/Twelfth_five-year_plan_(China))). [Opening ceremony of Olympics](https://www.youtube.com/watch?v=bufV3EgyPGU) coincides. China doubts West.
+- Two influential books from the triumphalists: [Unhappy China](https://en.wikipedia.org/wiki/Unhappy_China), 2009 and [China Dream: Great Power Thinking and Strategic Posture in the Post-American Era](https://digital-commons.usnwc.edu/cgi/viewcontent.cgi?article=1109&context=nwc-review), 2010. They are thinking of [Primus inter pares](https://en.wikipedia.org/wiki/Primus_inter_pares). Chinese government stays distant, says: [We Must Stick to the Path of Peaceful Development](https://md.china-embassy.gov.cn/eng/zgjj/201012/t20101213_10100964.htm).
+
+## Does History Repeat Itself?
+- Kissinger uses 20th century Anglo-German rivalry as a potential analogy for 21st century U.S.-China rivalry. A crucial document which is highly praised by Kissinger: [Memorandum on the Present State of British Relations with France and Germany](https://en.wikisource.org/wiki/Memorandum_on_the_Present_State_of_British_Relations_with_France_and_Germany) by [Sir Eyre Crowe](https://en.wikipedia.org/wiki/Eyre_Crowe), 1907.
+- Kissinger suggests a useful Pacific community, [Trans-Pacific Partnership](https://en.wikipedia.org/wiki/Trans-Pacific_Partnership) etc. and most importantly an attempt for "co-evolution". He read [Zum ewigen Frieden. Ein philosophischer Entwurf](https://en.wikipedia.org/wiki/Perpetual_Peace:_A_Philosophical_Sketch), Kant, 1795.
