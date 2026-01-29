@@ -1,12 +1,21 @@
-## Sentences
+## Sätze
 - Unten sind zwei Münzen, die um 500 n. Chr. geprägt wurden.
 
-## Words
+## Wörter
 - der Kalkstein: Limestone
 - der Anteilseigner: Shareholder
 - der Segler: Sailor
+- gesellig: sociable
 
-## Groups
+## Sonstiges
+- "Man sollte wirklich alles, was sich über das Gemeine erheben muss, in Versen wenigstens anfänglich konzipieren, denn das Platte kommt nirgends so ins Licht, als wenn es in gebundener Schreibart ausgesprochen wird." - Friedrich Schiller: Brief an Goethe vom 24. November 1797. [Siehe hier](https://de.wikipedia.org/wiki/Vers#Vers_vs._Gedicht).
+- [Im Nebel](https://de.wikipedia.org/wiki/Im_Nebel_(Gedicht)) ist ein Gedicht von Hermann Hesse aus dem Jahr 1905. [Hier weiterlesen](https://www.lyrikline.org/de/gedichte/im-nebel-5490). `Andere` bedeutet "other" und wird dekliniert, `anders` ist ein Adverb.
+> Seltsam, im Nebel zu wandern!  
+> Einsam ist jeder Busch und Stein,  
+> Kein Baum sieht den andern,  
+> Jeder ist allein.  
+
+## Nachrichten
 
 ### [Ein Wendepunkt für den Nahen Osten?](https://www.faz.net/aktuell/politik/assad-sturz-in-syrien-ein-wendepunkt-fuer-den-nahen-osten-110179826.html)
 > Bis Mitte November wirkten die Verhältnisse in Syrien weitgehend stabil. Gewaltherrscher Baschar al-Assad hatte das Kernland nach Jahren des Bürgerkriegs wieder unter seine Kontrolle gebracht und arbeitete stetig daran, die internationale Ächtung hinter sich zu lassen, die er durch sein brutales Vorgehen während des Aufstandes gegen ihn und der Jahre des Kriegs auf sich gezogen hatte.
