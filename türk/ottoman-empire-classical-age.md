@@ -4,7 +4,7 @@ by [Halil İnalcık](https://tr.wikipedia.org/wiki/Halil_İnalcık) (1915-2016),
 ## Pre-book
 
 <div align="center">
-  <img src="./images/ergenekon.jpg" alt="ergenekon" width="350"/>
+  <img src="./images/ergenekon.jpg" alt="ergenekon" width="500"/>
 </div>
 
 - Iranian imperial continuity: [Achaemenid Empire](https://en.wikipedia.org/wiki/Achaemenid_Empire) (550–330 BC), [Parthian Empire](https://en.wikipedia.org/wiki/Parthian_Empire) (247 BC-224 AD), [Sasanian Empire](https://en.wikipedia.org/wiki/Sasanian_Empire) (224–651). After the Mongol conquests, the [Ilkhanate](https://en.wikipedia.org/wiki/Ilkhanate) (1256–1335) (İlhanlılar) ruled Persia as a Chinggisid khanate, often in rivalry (and diplomacy) with the [Golden Horde](https://en.wikipedia.org/wiki/Golden_Horde) (Altın Ordu Devleti) to the north.
@@ -19,6 +19,23 @@ by [Halil İnalcık](https://tr.wikipedia.org/wiki/Halil_İnalcık) (1915-2016),
 ## An Outline of Ottoman History, 1300-1600
 - Initial question is: "How did Osman Gazi's small frontier principality, dedicated to a Holy War against Christian Byzantium, grow to be an empire of such power?". [H.A. Gibbons](https://en.wikipedia.org/wiki/Herbert_Adams_Gibbons) speculates that it is a revival of the Byzantine Empire as a Muslim state. Mehmet Fuat Köprülü disagrees in [The Origins of the Ottoman Empire](https://cityofconstantine.com/books/the_origins_of_the_ottoman_empire).
 - There is a parallel between how Rome recruited German soldiers and the [Mamluk](https://en.wikipedia.org/wiki/Mamluk) forces. The Mamluk system originated in the Abbasid Caliphate in the 9th century CE, recruiting enslaved Turkic and Caucasian youths for military service.
-- Inalcik marks [Battle of Bapheus](https://en.wikipedia.org/wiki/Battle_of_Bapheus), 1302, as the founding of the state. Other frontier principalities flocked behind.
+- Inalcik marks [Battle of Bapheus](https://en.wikipedia.org/wiki/Battle_of_Bapheus), 1302, as the founding of the principality. Other frontier principalities flocked behind.
 - The Ottoman State didn't have the orthodoxy of the hinterland and developed after the raids of the [gazis](https://en.wikipedia.org/wiki/Ghazi_(warrior)). The state aimed to treat all races as one, unite Orthodox Christian Balkans and Muslim Anatolia. Tolerance in exchange for poll-tax, [haraç](https://en.wikipedia.org/wiki/Haraç).
 - The case of [Mihal Gazi](https://en.wikipedia.org/wiki/Köse_Mihal), a Greek lord is a famous example of the assimilation.
+- In 1346, Orhan had made an alliance with a claimant to the Byzantine throne and had married his daughter, [Theodora](https://en.wikipedia.org/wiki/Theodora_Kantakouzene_(wife_of_Orhan)). Later in March 1354, with [Fall of Gallipoli](https://en.wikipedia.org/wiki/Fall_of_Gallipoli), Ottomans established themselves on European soil.
+
+<div align="center">
+
+  [Murad I](https://en.wikipedia.org/wiki/Murad_I)
+
+  <img src="./images/murad_I.png" alt="murad I" width="500"/>
+</div>
+
+
+- After the [Ottoman conquest of Adrianople](https://en.wikipedia.org/wiki/Ottoman_conquest_of_Adrianople), 1361, the government encouraged Turks from Anatolia to settle in Europe, [zaviyes](https://en.wikipedia.org/wiki/Zawiya_(institution)) became the nuclei of new Turkish villages and created a firm base in [Thrace](https://en.wikipedia.org/wiki/Thrace). By 1372 Ottomans were the master of the Balkan peninsula, and they again brought nomads from Anatolia, including powerful [yürük](https://en.wikipedia.org/wiki/Yörüks) groups.
+- [Janissaries](https://en.wikipedia.org/wiki/Janissary) were the first modern standing army, and perhaps the first infantry force in the world to be equipped with firearms. Inalcik says first standing army in Europe. They are made up through the [devşirme](https://en.wikipedia.org/wiki/Devshirme) system.
+- The Ottoman invasion of the Balkans coincided with a time of political fragmentation. The Greek Orthodox populations were fanatically opposed to all Latin influences. This and Janissaries account for the ease of Ottoman conquest in the Balkans.
+- Byzantine Empire was losing control of [pronoia](https://en.wikipedia.org/wiki/Pronoia) lands, a Byzantine system granting tax income for service. Ottomans again brought state control and converted them to [timars](https://en.wikipedia.org/wiki/Timar) or distributed to the [yayas](https://en.wikipedia.org/wiki/Yaya_(military)). For the peasantry new regime was an improvement.
+- The Ottomans frequently used the policy of legitimization when attacking their Muslim neighbours in the east. See [Battle of Frenkyazısı (1387)](https://en.wikipedia.org/wiki/Battle_of_Frenkyazısı_(1387)). Their aggression was hidden behind gifts and purchasing and if attacked they considered it as an attack to the Holy War. They broadcasted the charges through [fetvas](https://en.wikipedia.org/wiki/Fatwa) to the entire Islamic world. 
+- See [Battle of Kosovo](https://en.wikipedia.org/wiki/Battle_of_Kosovo), one of the largest battles of the Late Middle Ages. Inalcik says that it firmly established Ottoman rule in the Balkans. Murad I was killed during this war, only Ottoman Sultan killed on the battlefield.
+- Bayezid I won [Battle of Nicopolis](https://en.wikipedia.org/wiki/Battle_of_Nicopolis) (Niğbolu), 1396, against crusades, greatly raising the Ottoman prestige in the Islamic world and became a greater threat to Central Europe. Later in 1402, Timur defeated Ottomans in the [Battle of Ankara](https://en.wikipedia.org/wiki/Battle_of_Ankara) and taken Bayezid prisoner. This led to the 11 years long [Ottoman Interregnum](https://en.wikipedia.org/wiki/Ottoman_Interregnum) (Fetret devri).
