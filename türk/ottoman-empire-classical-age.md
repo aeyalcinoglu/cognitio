@@ -78,3 +78,26 @@ by [Halil İnalcık](https://tr.wikipedia.org/wiki/Halil_İnalcık) (1915-2016),
 - Beforehand, there was a harmony. In 1510 one gold piece was valued at 54 [akçes](https://en.wikipedia.org/wiki/Akçe), in 1580 at 60. However, disorder came quickly and doomsday was prophesized to fall on 1591, one thousandth anniversary of [hegira](https://en.wikipedia.org/wiki/Hijrah). In the sixteenth century the population increased by 40 per cent in the villages and by 80 per cent in the towns.
 - Decline was initially attributed to the fragmentation of the sultan's authority. Introduction of mass firearms and population growth disturbed the timar and devşirme systems. In the 1580s silver coinage was debased, financial crisis aggravated. See [Beylerbeyi event](https://en.wikipedia.org/wiki/Beylerbeyi_event). [The Celali period](https://en.wikipedia.org/wiki/Celali_rebellions) dragged the empire into a decline from which it never recovered.
 - The Ottomans, convinced of their own religious and political superiority closed their eyes to the outside world. Their institutions of the classical near-eastern state disintegrated. They failed to understand modern economic problems. Observe the similarity of Chinese reaction to [Macartney Mission](https://en.wikipedia.org/wiki/Macartney_Embassy).
+
+## The State
+
+### The Rise of the Ottoman Dynasty
+- [Ahi Brotherhood](https://en.wikipedia.org/wiki/Ahis) played an important part in the establishment of the Ottoman state. See [Şeyh Edebali](https://en.wikipedia.org/wiki/Sheikh_Edebali).
+- Ottoman historian [Aşıkpaşazade](https://en.wikipedia.org/wiki/Aşıkpaşazade) records that after Timur's death, the Ottomans produced a genealogy, claiming descent from Oğuz Khan.
+
+### The Manner of Accession to the Throne
+- The Ottoman prince who won the support of the Janissaries, ulema, bureaucracy and Palace officials, was the legitimate sultan.
+- Mehmed II legalized [fratricide](https://en.wikipedia.org/wiki/Fratricide). See also [kafes](https://en.wikipedia.org/wiki/Kafes).
+- From the 17th century onward the [şeyhülislams](https://en.wikipedia.org/wiki/Shaykh_al-Islām) often made common cause with the Janissaries, gaining the power to overthrow viziers and sultans. 
+
+### The Ottoman Concept of State and the Class System
+- [Kutadgu Bilig](https://en.wikipedia.org/wiki/Kutadgu_Bilig): Written in 1070, it is a [mirror for princes](https://en.wikipedia.org/wiki/Mirrors_for_princes) composed in Old Uyghur script in a language similar to the Orkhon inscriptions. "To control the state requires a large army. To support the troops requires great wealth. To obtain this wealth the people must be prosperous. For the people to be prosperous the laws must be just".
+- According to the Göktürk inscriptions, the ideal government follows the töre, and even after converting to Islam, the Mongol Khans of Iran preserved Genghis Khan’s yasa code, consulting it in affairs of state.
+- The caliphate theory kept ancient near-eastern ideas but made enforcing [şeriat](https://en.wikipedia.org/wiki/Sharia) the ruler’s duty. [Tursun Bey](https://en.wikipedia.org/wiki/Tursun_Beg): "Government based on reason alone is called sultanic yasak; government based on principles which ensure felicity in this world and the next is called divine policy, şeriat". He equates the state with the absolute authority of the sovereign.
+- [Siyasetname](https://en.wikipedia.org/wiki/Siyasatnama), written in the 11th century in Persian, is another mirror for princes. It argues that government can prevent anarchy only if each person remains within his own class. It is written by [Nizam al-Mulk](https://en.wikipedia.org/wiki/Nizam_al-Mulk) who is a Persian vizier of the Seljuk Empire.
+- It required exceptional cases for a son of a peasant, [reaya](https://en.wikipedia.org/wiki/Rayah), to enter the military class. Süleyman I even revoked tax exemptions of those who had not entered by descent from military ancestors. Early 17th-century Ottoman writers saw abandoning this principle as the main cause of the empire’s decline.
+
+### Law: Sultanic Law (Kanun) and Religious Law (Şeriat)
+- Some Islamic jurists, including [Ibn Khaldun](https://en.wikipedia.org/wiki/Ibn_Khaldun), considered kanun unnecessary. Ottoman kanun originated as [fermans](https://en.wikipedia.org/wiki/Firman). Sometimes decrees were exact translations of the earlier native laws.
+- The main purpose of the [sanjak](https://en.wikipedia.org/wiki/Sanjak) kanunnames was to show the rates and manner of collection of the taxes in the timars. The two kanunnames of Mehmed the Conqueror systematized the kanun-i osmani for the first time.
+- The penal code was drawn up according to principles such as the [lex talionis](https://en.wikipedia.org/wiki/Eye_for_an_eye). Ottoman law attached great importance to precedent, with [kadis](https://en.wikipedia.org/wiki/Qadi) instructed to record their decision and act according to it in similar situations. Kadis administered both şeriat and kanun.
