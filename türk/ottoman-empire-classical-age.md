@@ -54,7 +54,7 @@ by [Halil İnalcık](https://tr.wikipedia.org/wiki/Halil_İnalcık) (1915-2016),
 
 <img align="right" src="./images/mehmed_II.jpg" alt="mehmed_II" width="400">
 
-- "Mehmed the Conqueror was the true founder of the Ottoman Empire."
+- Inalcik: "Mehmed the Conqueror was the true founder of the Ottoman Empire". See also Character of [Mahomet II](https://www.ccel.org/g/gibbon/decline/volume2/chap68.htm#MahometII) by Edward Gibbon.
 - Mehmed appointed [Gennadius](https://en.wikipedia.org/wiki/Gennadius_Scholarius) as Orthodox patriarch, and ordered him to write [The Confession of Faith](https://www.johnsanidopoulos.com/2016/10/the-confession-of-faith-of-gennadios.html). He invited [Gentile Bellini](https://en.wikipedia.org/wiki/Gentile_Bellini) to paint. 
 - A Janissary revolt and a general reaction against Mehmed II's administrative and bellicose policies followed his death in 1481. There was a period where Bellini's frescos were broken up. Beyazid II (1481-1512) came to the throne, instead of his brother [Cem](https://en.wikipedia.org/wiki/Cem_Sultan), but effective power temporarily remained in the hands of [Gedik Ahmed](https://en.wikipedia.org/wiki/Gedik_Ahmed_Pasha) and his father-in-law, [Ishak Pasha](https://en.wikipedia.org/wiki/Ishak_Pasha).
 - [Kizilbas](https://en.wikipedia.org/wiki/Qizilbash) were mainly Turkoman Shia militant groups in the central Anatolian steppes. They adhered to dervish orders which professed a shamanistic, tribal heterodox version of Islam. In about 1500 [Ismail Safavi](https://en.wikipedia.org/wiki/Ismail_I), first shah of [Safavid Iran](https://en.wikipedia.org/wiki/Safavid_Iran), was their religious leader. They [rebelled in 1511](https://en.wikipedia.org/wiki/Şahkulu_rebellion), led by [sipahis](https://en.wikipedia.org/wiki/Sipahi). So, Selim (1512-20) came to power, killed 40000 kizilbas and won [Battle of Chaldiran](https://en.wikipedia.org/wiki/Battle_of_Chaldiran) in 1514. This caused a mass migration of Turkoman tribes to Iran.
@@ -86,7 +86,7 @@ by [Halil İnalcık](https://tr.wikipedia.org/wiki/Halil_İnalcık) (1915-2016),
 - Ottoman historian [Aşıkpaşazade](https://en.wikipedia.org/wiki/Aşıkpaşazade) records that after Timur's death, the Ottomans produced a genealogy, claiming descent from Oğuz Khan.
 
 ### The Manner of Accession to the Throne
-- The Ottoman prince who won the support of the Janissaries, ulema, bureaucracy and Palace officials, was the legitimate sultan.
+- The Ottoman prince who won the support of the Janissaries, ulema, bureaucracy and palace officials, was the legitimate sultan.
 - Mehmed II legalized [fratricide](https://en.wikipedia.org/wiki/Fratricide). See also [kafes](https://en.wikipedia.org/wiki/Kafes).
 - From the 17th century onward the [şeyhülislams](https://en.wikipedia.org/wiki/Shaykh_al-Islām) often made common cause with the Janissaries, gaining the power to overthrow viziers and sultans. 
 
@@ -101,3 +101,21 @@ by [Halil İnalcık](https://tr.wikipedia.org/wiki/Halil_İnalcık) (1915-2016),
 - Some Islamic jurists, including [Ibn Khaldun](https://en.wikipedia.org/wiki/Ibn_Khaldun), considered kanun unnecessary. Ottoman kanun originated as [fermans](https://en.wikipedia.org/wiki/Firman). Sometimes decrees were exact translations of the earlier native laws.
 - The main purpose of the [sanjak](https://en.wikipedia.org/wiki/Sanjak) kanunnames was to show the rates and manner of collection of the taxes in the timars. The two kanunnames of Mehmed the Conqueror systematized the kanun-i osmani for the first time.
 - The penal code was drawn up according to principles such as the [lex talionis](https://en.wikipedia.org/wiki/Eye_for_an_eye). Ottoman law attached great importance to precedent, with [kadis](https://en.wikipedia.org/wiki/Qadi) instructed to record their decision and act according to it in similar situations. Kadis administered both şeriat and kanun.
+
+### The Palace
+- Machiavelli in The Prince, chapter 4: "The whole country of the Turk is governed by one master; all the rest are his kuls".
+- [Karamani Mehmed Pasha's](https://en.wikipedia.org/wiki/Karamani_Mehmed_Pasha) story can be considered a turning point in early Ottoman elite politics.
+- There were levies of devşirme every three to seven years, annually around one to three thousand boys.
+- [Kapi ağasi](https://en.wikipedia.org/wiki/Kapi_Agha), the chief white eunuch, was the supervisor of the whole Palace. There were four Chambers in the sultan's service and the has oda's (Privy Chamber) head, called has oda başi, was the closest person to the sultan, never leaving his side.
+- [Roxelana](https://en.wikipedia.org/wiki/Roxelana) (1505-1558): Known as Hurrem Sultan, Süleyman I contracted a religious marriage with this Russian slave-girl. In a letter she writes "When - God willing - we are together again, I shall explain..."
+- [Ducas](https://en.wikipedia.org/wiki/Demetrius_Ducas) reports that Murad II treated his slaves as brothers. Translation of kul as slaves is misleading. Not just the sultan but all ranks of the military class adopted the slave system.
+
+### The Central Administration
+- The government's most important function was the administration of justice. The [imperial council](https://en.wikipedia.org/wiki/Imperial_Council_(Ottoman_Empire)), divan-i hümayun, was essentially a high court but also served as a sort of cabinet.
+- Government was composed of three departments: Political, judicial and financial. The holders of the four royal offices were viziers, [kadiaskers](https://en.wikipedia.org/wiki/Kazasker), defterdars and nisanci.
+- [Köprülü Mehmed](https://en.wikipedia.org/wiki/Köprülü_Mehmed_Pasha) was grand vizier and founding patriarch of the Köprülü political dynasty. He was given extraordinary powers and political rule without interference.
+- None of the valide sultans was as influential as Ahmed I's wife, [Kösem Sultan](https://en.wikipedia.org/wiki/Kösem_Sultan) (1589-1651).
+- Murad III's spiritual advisor, şeyh Şücca, was a member of the [halveti order](https://en.wikipedia.org/wiki/Khalwati_order).
+- "In Umayyad and Abbasid times only local Christian and Persian scribes had sufficient experience in the techniques of finance and administration and for a long time monopolized the public affairs of the caliphate."
+- In 1537, in the central government, there were eighteen secretaries, of whom eleven specialized in political and administrative commands and seven in financial decrees. By 1568 there were 222 secretaries in the Exchequer departments. [Nişanci](https://en.wikipedia.org/wiki/Nişancı) can be considered as the head bureaucrat.
+- During decline, secretaries instituted reforms and regarded the adoption of European ideas as the only way of saving the empire, despite the opposition of the ulema. [Katip Çelebi](https://en.wikipedia.org/wiki/Kâtip_Çelebi) (1609-1657), the greatest Ottoman encyclopedic scholar, was a secretary.
