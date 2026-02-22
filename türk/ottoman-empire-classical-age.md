@@ -54,7 +54,7 @@ by [Halil İnalcık](https://tr.wikipedia.org/wiki/Halil_İnalcık) (1915-2016),
 
 <img align="right" src="./images/mehmed_II.jpg" alt="mehmed_II" width="400">
 
-- Inalcik: "Mehmed the Conqueror was the true founder of the Ottoman Empire". See also Character of [Mahomet II](https://www.ccel.org/g/gibbon/decline/volume2/chap68.htm#MahometII) by Edward Gibbon.
+- Inalcik: "Mehmed the Conqueror was the true founder of the Ottoman Empire". See also [Character of Mahomet II](https://www.ccel.org/g/gibbon/decline/volume2/chap68.htm#MahometII) by Edward Gibbon.
 - Mehmed appointed [Gennadius](https://en.wikipedia.org/wiki/Gennadius_Scholarius) as Orthodox patriarch, and ordered him to write [The Confession of Faith](https://www.johnsanidopoulos.com/2016/10/the-confession-of-faith-of-gennadios.html). He invited [Gentile Bellini](https://en.wikipedia.org/wiki/Gentile_Bellini) to paint. 
 - A Janissary revolt and a general reaction against Mehmed II's administrative and bellicose policies followed his death in 1481. There was a period where Bellini's frescos were broken up. Beyazid II (1481-1512) came to the throne, instead of his brother [Cem](https://en.wikipedia.org/wiki/Cem_Sultan), but effective power temporarily remained in the hands of [Gedik Ahmed](https://en.wikipedia.org/wiki/Gedik_Ahmed_Pasha) and his father-in-law, [Ishak Pasha](https://en.wikipedia.org/wiki/Ishak_Pasha).
 - [Kizilbas](https://en.wikipedia.org/wiki/Qizilbash) were mainly Turkoman Shia militant groups in the central Anatolian steppes. They adhered to dervish orders which professed a shamanistic, tribal heterodox version of Islam. In about 1500 [Ismail Safavi](https://en.wikipedia.org/wiki/Ismail_I), first shah of [Safavid Iran](https://en.wikipedia.org/wiki/Safavid_Iran), was their religious leader. They [rebelled in 1511](https://en.wikipedia.org/wiki/Şahkulu_rebellion), led by [sipahis](https://en.wikipedia.org/wiki/Sipahi). So, Selim (1512-20) came to power, killed 40000 kizilbas and won [Battle of Chaldiran](https://en.wikipedia.org/wiki/Battle_of_Chaldiran) in 1514. This caused a mass migration of Turkoman tribes to Iran.
@@ -102,6 +102,8 @@ by [Halil İnalcık](https://tr.wikipedia.org/wiki/Halil_İnalcık) (1915-2016),
 - The main purpose of the [sanjak](https://en.wikipedia.org/wiki/Sanjak) kanunnames was to show the rates and manner of collection of the taxes in the timars. The two kanunnames of Mehmed the Conqueror systematized the kanun-i osmani for the first time.
 - The penal code was drawn up according to principles such as the [lex talionis](https://en.wikipedia.org/wiki/Eye_for_an_eye). Ottoman law attached great importance to precedent, with [kadis](https://en.wikipedia.org/wiki/Qadi) instructed to record their decision and act according to it in similar situations. Kadis administered both şeriat and kanun.
 
+<img align="right" src="./images/topkapi_palace.jpeg" alt="topkapi_palace" width="400">
+
 ### The Palace
 - Machiavelli in The Prince, chapter 4: "The whole country of the Turk is governed by one master; all the rest are his kuls".
 - [Karamani Mehmed Pasha's](https://en.wikipedia.org/wiki/Karamani_Mehmed_Pasha) story can be considered a turning point in early Ottoman elite politics.
@@ -119,3 +121,26 @@ by [Halil İnalcık](https://tr.wikipedia.org/wiki/Halil_İnalcık) (1915-2016),
 - "In Umayyad and Abbasid times only local Christian and Persian scribes had sufficient experience in the techniques of finance and administration and for a long time monopolized the public affairs of the caliphate."
 - In 1537, in the central government, there were eighteen secretaries, of whom eleven specialized in political and administrative commands and seven in financial decrees. By 1568 there were 222 secretaries in the Exchequer departments. [Nişanci](https://en.wikipedia.org/wiki/Nişancı) can be considered as the head bureaucrat.
 - During decline, secretaries instituted reforms and regarded the adoption of European ideas as the only way of saving the empire, despite the opposition of the ulema. [Katip Çelebi](https://en.wikipedia.org/wiki/Kâtip_Çelebi) (1609-1657), the greatest Ottoman encyclopedic scholar, was a secretary.
+
+### The Provincial Administration and the Timar System
+- Two authorities for a district: A bey from the military class and a kadi from the ulema.
+- [Beylerbeylik](https://en.wikipedia.org/wiki/Eyalet) or eyalet is the largest administrative unit. In 1520 there were only six of them, by the end of Süleyman's reign there were sixteen. They were subdivided into sanjaks.
+- There were some families who held central government on a hereditary basis: For example the family of [Evrenos](https://tr.wikipedia.org/wiki/Evrenos_Bey) and see above for Mihal Gazi. The position of these beys within the Ottoman Empire was similar to the position of Osman Gazi under the Seljuks.
+- Hukumet sanjak: An autonomous, hereditary sanjak in eastern Anatolia, governed by a tribal chief.
+- Timar, [zeamet](https://en.wikipedia.org/wiki/Ziamet), and has were fiefs classified by annual revenue: Timar yielded less than twenty thousand akçes, zeamet between twenty and one hundred thousand, and has more than one hundred thousand. The holder of a zeamet is called [subaşi](https://en.wikipedia.org/wiki/Soubashi).
+- The struggle between the state and individuals to gain possession of the land was one of the most important problems of the Ottoman Empire's social history. In 1528, about 87 per cent of the land was miri, crown-land, and 37 per cent of the state's income was distributed as timars. The main clauses in the kanunnames were those regulating the relations between the sipahi and the reaya.
+- For his own needs, a sipahi received one çift of land, around 60 to 150 [dönüms](https://en.wikipedia.org/wiki/Dunam). [Çift resmi](https://en.wikipedia.org/wiki/Resm-i_çift) was a tax paid in cash by land-owning Muslims. A sipahi had to provide one cebelü, a fully armed horseman, per three thousand akçes of timar income.
+- The head of a reaya family could hold a çift large enough to support a single family but could receive no more. However, in the fifteenth century there was more cultivatable land available than there was labour to work it. Also, sipahi fathers could not fully bequeath their fiefs to their sons as in western feudalism but there was a relational system.
+- "Statistics from 1431, for the frontier district of Albania, show that 16 per cent of the sipahis were former Christian fief-holders, 30 per cent were Turks from Anatolia, and 50 per cent were slaves of the sultan and beys."
+- "In the mid-sixteenth century so many students were studying to become kadis in the hundreds of Anatolian medreses that they became a heavy burden on the empire."
+
+## Economic and Social Life
+
+### The Ottoman Empire and International Trade
+- Around the 13th-16th centuries the principal items of east-west trade were the fine cloths of Florence and Chinese or Persian silks. Trade in Persian silk was the mainstay of Bursa's development and prosperity. Bursa became the international market place for the basic raw material of the European silk industry. Watch [how silk is made](https://www.youtube.com/watch?v=HzpF4niyDeg).
+- "The rich provinces of Egypt and Syria were one of the main sources of the empire's wealth, providing in 1528 one-third of the budget income for the entire empire."
+- The Black Sea is almost a two-layer sea, with anoxic deep waters that keep most marine life in the upper layer. Its trade was one of the most important sections of the Ottoman economy. [Caffa](https://en.wikipedia.org/wiki/Feodosia) was the principal port.
+- In the 1550s [Joseph Nasi](https://en.wikipedia.org/wiki/Joseph_Nasi) was granted the monopoly of the wine trade in the Black Sea. He was influential with Süleyman and supported Jewish resettlement projects with limited success.
+- At the start of the 17th century, French Levant trade reached about 1000 ships and accounted for roughly half of France’s total trade, with many English and Dutch merchants also trading under the French flag.
+- The Ottoman Empire tried to use commercial privileges as a political weapon, giving capitulations and collecting trade taxes. "It was only after the industrial revolution in Europe that the capitulations had disastrous consequences...". See also [Levant Company](https://en.wikipedia.org/wiki/Levant_Company) (1592-1825).
+- In early Ottoman-West trade, duty-free silver imports flooded the market and helped trigger a price revolution. See above the Beylerbeyi event. See also related [Spanish Price Revolution](https://en.wikipedia.org/wiki/Price_revolution).
