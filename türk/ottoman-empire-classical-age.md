@@ -123,6 +123,10 @@ by [Halil İnalcık](https://tr.wikipedia.org/wiki/Halil_İnalcık) (1915-2016),
 - During decline, secretaries instituted reforms and regarded the adoption of European ideas as the only way of saving the empire, despite the opposition of the ulema. [Katip Çelebi](https://en.wikipedia.org/wiki/Kâtip_Çelebi) (1609-1657), the greatest Ottoman encyclopedic scholar, was a secretary.
 
 ### The Provincial Administration and the Timar System
+
+<img align="right" src="./images/sipahi.jpg" alt="sipahi" width="250">
+
+- For the sipahi image and more, see [The Rålamb Costume Book](https://goran.baarnhielm.net/draktbok/eng/intro.htm).
 - Two authorities for a district: A bey from the military class and a kadi from the ulema.
 - [Beylerbeylik](https://en.wikipedia.org/wiki/Eyalet) or eyalet is the largest administrative unit. In 1520 there were only six of them, by the end of Süleyman's reign there were sixteen. They were subdivided into sanjaks.
 - There were some families who held central government on a hereditary basis: For example the family of [Evrenos](https://tr.wikipedia.org/wiki/Evrenos_Bey) and see above for Mihal Gazi. The position of these beys within the Ottoman Empire was similar to the position of Osman Gazi under the Seljuks.
@@ -144,3 +148,24 @@ by [Halil İnalcık](https://tr.wikipedia.org/wiki/Halil_İnalcık) (1915-2016),
 - At the start of the 17th century, French Levant trade reached about 1000 ships and accounted for roughly half of France’s total trade, with many English and Dutch merchants also trading under the French flag.
 - The Ottoman Empire tried to use commercial privileges as a political weapon, giving capitulations and collecting trade taxes. "It was only after the industrial revolution in Europe that the capitulations had disastrous consequences...". See also [Levant Company](https://en.wikipedia.org/wiki/Levant_Company) (1592-1825).
 - In early Ottoman-West trade, duty-free silver imports flooded the market and helped trigger a price revolution. See above the Beylerbeyi event. See also related [Spanish Price Revolution](https://en.wikipedia.org/wiki/Price_revolution).
+
+### The Ottoman Cities and Road Network, Urban Population, Guilds and Merchants
+- "Before the Ottoman conquest, the population of Istanbul had fallen to between thirty to forty thousand souls." Its population reached four hundred thousand around 1550 and it was the largest city in Europe.
+- "Mehmed the Conqueror attempted to make Istanbul a universal metropolis by officially recognizing the spiritual leaders of the Greek Orthodox, Armenian and Jewish communities and establishing them in the city."
+- The [imaret](https://en.wikipedia.org/wiki/Imaret), urban centres supported by [vakifs](https://en.wikipedia.org/wiki/Waqf), was an old near-eastern institution. Zaviyes can be considered as a prototype for imarets. It was a complex institution founded with pious or charitable motives. However, an important factor was the institution of temlik, the royal grant of property rights. A rich family could appoint their descendants as mütevellis, the chief trustee.
+- Every important Ottoman city had a Great Mosque and a [bedestan](https://en.wikipedia.org/wiki/Bedesten).
+- In 1546 there were 2517 vakifs in Istanbul.
+- Persian caravans consisted up to one thousand or more animals and these animals were normally rented from and driven by Turcoman nomads.
+- See [Turkish Letters](https://archive.org/details/turkishlettersof0000busb/page/18/mode/2up) (1595) by [Busbecq](https://en.wikipedia.org/wiki/Ogier_Ghiselin_de_Busbecq), the ambassador of the Holy Roman Empire. In page 18 the quote about the [caravanserai](https://en.wikipedia.org/wiki/Caravanserai) can be found.
+- "[Zaviyes] were the origin of most of the Turkish villages established in the fourteenth century in western Anatolia and the Balkans". See [Ömer Lütfi Barkan](https://tr.wikipedia.org/wiki/Ömer_Lütfi_Barkan)'s [Kolonizatör Türk
+Dervişleri](https://cdn.vgm.gov.tr/yayin/dergi/muhtelif/kolonizator-turk-dervisleri.pdf) for more information on Ahis and zaviyes. He also writes about the origins of the empire.
+- [Ibn Battuta](https://en.wikipedia.org/wiki/Ibn_Battuta) travelled more than any other explorer in pre-modern history, totalling around 117,000 km. He visited Anatolia in 1333 and writes how the collective life of Ahi Brotherhood works, p. 150. 
+- As centralized state emerged the goverment abolished most of the zaviyes by the sixteenth century.
+- Three productive classes were farmers, merchants and craftsmen, last two forming the urban population. Craftsmen were not allowed to wear luxurious garments of the upper class merchants.
+- See [The Islamic Guilds](https://www.jstor.org/stable/2590356?sid=primo&seq=1) (1937) by [Bernard Lewis](https://en.wikipedia.org/wiki/Bernard_Lewis) for a discussion of origins of craft guilds in the Ottoman Empire.
+- Ahi craft guilds might have originated as the continuation of Graeco-Roman corporations. These later became [Karmatian](https://en.wikipedia.org/wiki/Qarmatians) fraternities. After the Mongol invasion, [futuwwa](https://en.wikipedia.org/wiki/Futuwwa) ethics and [sufi](https://en.wikipedia.org/wiki/Sufism) order structures persisted.
+- According to futuwwa ethics the perfect person is one who is generous, self-sacrificing, self-disciplined, obedient to his superiors and sober.
+- The head of a guild formed a committee called "the Six": [Kethüda](https://en.wikipedia.org/wiki/Kethüda), [şeyh](https://en.wikipedia.org/wiki/Sheikh), yiğitbaşi and his assistant, two ehl-i hibre.
+- When the Ottoman state was regulating prices according to [ihtisab](https://en.wikipedia.org/wiki/Ihtisab), with [muhtesib](https://en.wikipedia.org/wiki/Muhtasib) and local kadi, they were giving 10 to 20 per cent profit.
+- Inalcik says that the conservatism of the central authority around the guild system for tax protection until 19th century hindered the growth of a strong Ottoman bourgeoisie. See also [putting-out system](https://en.wikipedia.org/wiki/Putting-out_system).
+- "As in other near-eastern states, the lower strata of urban artisans always opposed the ruling military class."
